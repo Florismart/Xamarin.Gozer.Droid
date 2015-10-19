@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Florismart.Gozer.Droid.Sample", "Florismart.Gozer.Droid.Sample\Florismart.Gozer.Droid.Sample.csproj", "{F110741B-BAEE-4747-9C5E-BD4C45AF9CB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Florismart.Gozer.Droid", "Florismart.Gozer.Droid\Florismart.Gozer.Droid.csproj", "{159FE9A1-FC83-43AF-BA35-FAFA7D09CCC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159FE9A1-FC83-43AF-BA35-FAFA7D09CCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159FE9A1-FC83-43AF-BA35-FAFA7D09CCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159FE9A1-FC83-43AF-BA35-FAFA7D09CCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159FE9A1-FC83-43AF-BA35-FAFA7D09CCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F110741B-BAEE-4747-9C5E-BD4C45AF9CB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F110741B-BAEE-4747-9C5E-BD4C45AF9CB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F110741B-BAEE-4747-9C5E-BD4C45AF9CB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F110741B-BAEE-4747-9C5E-BD4C45AF9CB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
